@@ -385,5 +385,5 @@ detect_video.py:
 
 ### References  
 
-   Huge shoutout goes to hunglc007 for creating the backbone of this repository:
+   Huge shoutout goes to hunglc007 and the AI Guy for creating the backbone of this repository:
   * [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
